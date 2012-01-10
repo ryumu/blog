@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[何個目かわからないブログ]]></title>
-  <link href="http://ryumu.github.com/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: diary | 何個目かわからないブログ]]></title>
+  <link href="http://ryumu.github.com/blog/blog/categories/diary/atom.xml" rel="self"/>
   <link href="http://ryumu.github.com/blog/"/>
   <updated>2012-01-10T14:23:29+09:00</updated>
   <id>http://ryumu.github.com/blog/</id>
@@ -21,17 +21,6 @@
     <content type="html"><![CDATA[<p>githubで簡単にブログが作れるということなので始めてみました。よろしくおねがいします。</p>
 
 <p>いつものことながら三日坊主になることが大いに予想されます。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[テスト]]></title>
-    <link href="http://ryumu.github.com/blog/blog/2012/01/10/test/"/>
-    <updated>2012-01-10T14:01:00+09:00</updated>
-    <id>http://ryumu.github.com/blog/blog/2012/01/10/test</id>
-    <content type="html"><![CDATA[<p>これはテストかね？</p>
-
-<p>そう、テストなのです。</p>
 ]]></content>
   </entry>
   
